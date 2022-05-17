@@ -1,0 +1,1 @@
+# fastapi-qrcode-generator-app
